@@ -29,6 +29,7 @@ O sistema foi desenvolvido para auxiliar no gerenciamento de alunos, treinos, ex
 - Documentação técnica
 
 ## Imagens
+[DailyFit.docx.pdf](https://github.com/user-attachments/files/30230858/DailyFit.docx.pdf)
 <img width="1280" height="656" alt="image" src="https://github.com/user-attachments/assets/cda4ce85-0430-4806-9ccb-90b1b9c16e67" />
 <img width="508" height="488" alt="image" src="https://github.com/user-attachments/assets/6ecd311a-373b-4a42-986d-7b85baa08ce8" />
 
