@@ -69,3 +69,7 @@ Diagrama de Casos de Uso:
 
 - Marcus Vinicius Simões Bordignon
 - Tiago Luiz da Silva Perri
+
+---
+
+Projeto desenvolvido durante o 1º período do curso de Análise e Desenvolvimento de Sistemas da FAETERJ-Rio.
