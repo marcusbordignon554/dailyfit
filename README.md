@@ -56,9 +56,16 @@ Interface do DailyFit:
 Diagrama de Casos de Uso:
 <img width="508" height="488" alt="image" src="https://github.com/user-attachments/assets/6ecd311a-373b-4a42-986d-7b85baa08ce8" />
 
+## 🎯 Competências Desenvolvidas
 
+- Levantamento de requisitos
+- Engenharia de Software
+- Modelagem UML
+- Documentação de Software
+- Trabalho em equipe
+- Análise de Sistemas
 
-## Autores
+## 👨‍💻 Autores
 
-Marcus Vinicius Simões Bordignon
-TIAGO LUIZ DA SILVA PERRI
+- Marcus Vinicius Simões Bordignon
+- Tiago Luiz da Silva Perri
