@@ -19,6 +19,7 @@ O sistema foi desenvolvido para auxiliar no gerenciamento de alunos, treinos, ex
 
 - GOOGLE AI STUDIO
 - UML
+- Inteligência Artificial Generativa
 
 ## Engenharia de Software
 
