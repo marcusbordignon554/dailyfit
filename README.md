@@ -1,5 +1,10 @@
 # 🏋️ DailyFit
 
+[![Status](https://img.shields.io/badge/Status-Active-green.svg)]()
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)]()
+[![Python](https://img.shields.io/badge/Python-3.x-blue.svg?logo=python)]()
+[![Google AI](https://img.shields.io/badge/Google-AI_Studio-red?logo=google)]()
+
 Sistema de Gestão para Academias desenvolvido como projeto acadêmico da disciplina Introdução à Análise de Sistemas da FAETERJ.
 
 ## Objetivo
