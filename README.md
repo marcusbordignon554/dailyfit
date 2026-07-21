@@ -64,7 +64,6 @@ Ela inclui:
 - Documento de Requisitos
 - Diagrama de Casos de Uso
 - Diagrama de Classes
-- Protótipos de Interface
 
 ## 📷 Interface
 
