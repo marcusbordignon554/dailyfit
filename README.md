@@ -1,9 +1,10 @@
 # 🏋️ DailyFit
 
+[![FAETERJ](https://img.shields.io/badge/FAETERJ-Introdução%20à%20Análise%20de%20Sistemas-009688)]()
 [![Status](https://img.shields.io/badge/Status-Active-green.svg)]()
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)]()
-[![Python](https://img.shields.io/badge/Python-3.x-blue.svg?logo=python)]()
+[![Projeto Acadêmico](https://img.shields.io/badge/Projeto-Acadêmico-blue.svg)]()
 [![Google AI](https://img.shields.io/badge/Google-AI_Studio-red?logo=google)]()
+[![UML](https://img.shields.io/badge/UML-Diagrams-blueviolet)]()
 
 Sistema de Gestão para Academias desenvolvido como projeto acadêmico da disciplina Introdução à Análise de Sistemas da FAETERJ.
 
