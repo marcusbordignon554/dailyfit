@@ -14,6 +14,10 @@ O **DailyFit** é um sistema de gestão para academias desenvolvido como projeto
 
 O projeto teve como objetivo aplicar conceitos de Engenharia de Software, incluindo levantamento de requisitos, modelagem UML, documentação técnica e desenvolvimento de uma solução voltada para o gerenciamento de rotinas saudáveis.
 
+## 🤖 Inteligência Artificial
+
+O projeto utiliza IA Generativa para auxiliar os usuários na elaboração de rotinas saudáveis, fornecendo sugestões de treinos, dietas e suplementação com base nas informações cadastradas.
+
 ## Objetivo
 
 O sistema foi desenvolvido para auxiliar no gerenciamento de alunos, treinos, exercícios, dietas e suplementação.
@@ -45,16 +49,6 @@ Durante o desenvolvimento foram realizadas as seguintes etapas:
 - Diagrama de Casos de Uso
 - Diagrama de Classes
 - Documentação técnica
-
-## Imagens
-Documentação do Projeto:
-[DailyFit.docx.pdf](https://github.com/user-attachments/files/30230858/DailyFit.docx.pdf)
-
-Interface do DailyFit:
-<img width="1280" height="656" alt="image" src="https://github.com/user-attachments/assets/cda4ce85-0430-4806-9ccb-90b1b9c16e67" />
-
-Diagrama de Casos de Uso:
-<img width="508" height="488" alt="image" src="https://github.com/user-attachments/assets/6ecd311a-373b-4a42-986d-7b85baa08ce8" />
 
 ## 🎯 Competências Desenvolvidas
 
