@@ -18,10 +18,6 @@ O projeto teve como objetivo aplicar conceitos de Engenharia de Software, inclui
 
 O projeto utiliza IA Generativa para auxiliar os usuários na elaboração de rotinas saudáveis, fornecendo sugestões de treinos, dietas e suplementação com base nas informações cadastradas.
 
-## Objetivo
-
-O sistema foi desenvolvido para auxiliar no gerenciamento de alunos, treinos, exercícios, dietas e suplementação.
-
 ## 🚀 Funcionalidades
 
 - Cadastro de usuários
@@ -58,6 +54,31 @@ Durante o desenvolvimento foram realizadas as seguintes etapas:
 - Documentação de Software
 - Trabalho em equipe
 - Análise de Sistemas
+
+## 📄 Documentação
+
+A documentação completa do projeto está disponível na pasta **docs/**.
+
+Ela inclui:
+
+- Documento de Requisitos
+- Diagrama de Casos de Uso
+- Diagrama de Classes
+- Protótipos de Interface
+
+## 📷 Interface
+
+### Tela Inicial
+
+![Tela Inicial](assets/tela-inicial.png)
+
+### Cadastro de Usuário
+
+![Cadastro de Usuário](assets/cadastro-usuario.png)
+
+### Sugestões com IA
+
+![Sugestões com IA](assets/ia-generativa.png)
 
 ## 👨‍💻 Autores
 
